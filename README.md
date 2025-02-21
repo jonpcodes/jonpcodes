@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have experience with multiple IDE's, technologies & programming languages. I'm interested on frontend / backend development, AI and ML, but always open to learn something new.</p>
+<p align="left">I have experience with multiple IDE's, technologies & programming languages. I'm interested on frontend & backend web/app development, AI and ML, but always open to learn something new.</p>
 
 ###
 
