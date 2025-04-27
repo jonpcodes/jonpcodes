@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Jon and I'm a Computer Engineering Student at Universitat Autonoma de Barcelona (UAB).</h3>
+<h3 align="left">My name is Jon and I'm a Computer Engineering Student at Universitat Autónoma de Barcelona (UAB).</h3>
 
 ###
 
